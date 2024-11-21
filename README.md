@@ -3,7 +3,7 @@ reprexEditor
 
 reprexEditor is a fork of shinyAce attempting to integrate Ace, languageserver, Shiny, and shinylive 
 
-Contributors (In order of first commit shinyAce)
+Contributors (In order of first commit fork shinyAce)
 ---------------------------------------
 
  - [Jeff Allen](https://github.com/trestletech) - Core project
@@ -19,7 +19,7 @@ Contributors (In order of first commit reprexEditor)
 
  - [Sean Birchall](https://github.com/seanbirchall) - Core project
 
-License
+License (old)
 -------
 
 The development of this project was generously sponsored by the [Institut de 
