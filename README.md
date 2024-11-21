@@ -3,7 +3,7 @@ reprexEditor
 
 reprexEditor is a fork of shinyAce attempting to integrate Ace, languageserver, Shiny, and shinylive 
 
-Contributors (In order of first commit)
+Contributors (In order of first commit shinyAce)
 ---------------------------------------
 
  - [Jeff Allen](https://github.com/trestletech) - Core project
@@ -13,6 +13,11 @@ Contributors (In order of first commit)
  - [Forest Fang](https://github.com/saurfang) - Code completion ([#21](https://github.com/trestletech/shinyAce/pull/21), [#52](https://github.com/trestletech/shinyAce/pull/52),  [#53](https://github.com/trestletech/shinyAce/pull/53)) 
   - [Gregor De Cillia](https://github.com/GregorDeCillia) - Auto completion with shiny modules ([#54](https://github.com/trestletech/shinyAce/pull/54))
   - [@detule](https://github.com/detule) - Refactoring of much of the JS code in shinyAce to better work with Shiny Modules ([#62](https://github.com/trestletech/shinyAce/pull/62))
+
+Contributors (In order of first commit reprexEditor)
+---------------------------------------
+
+ - [Sean Birchall](https://github.com/seanbirchall) - Core project
 
 Known Bugs
 ----------
